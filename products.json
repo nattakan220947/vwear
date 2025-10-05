@@ -1,0 +1,56 @@
+{
+  "top1": {
+    "brand": "Temp.",
+    "name": "Linen Drift",
+    "price": "1190",
+    "img": "pic/top1.jpg"
+  },
+  "top2": {
+    "brand": "B.K.T Clothing",
+    "name": "Casual Layer Tee",
+    "price": "590",
+    "img": "pic/top2.jpg"
+  },
+  "top3": {
+    "brand": " V Wear",
+    "name": "Linear Mood",
+    "price": "490",
+    "img": "pic/top3.jpg"
+  },
+  "top4": {
+    "brand": "D.Fashion",
+    "name": "Denim Mood",
+    "price": "490",
+    "img": "pic/top4.jpg"
+  },
+  "top5": {
+    "brand": "E.Style",
+    "name": "Oversize Cozy",
+    "price": "890",
+    "img": "pic/top5.jpg"
+  },
+  "top6": {
+    "brand": "F.Trend",
+    "name": "Blue Tee",
+    "price": "490",
+    "img": "pic/top6.jpg"
+  },
+  "top7": {
+    "brand": "G.Modern",
+    "name": "Red Pleats",
+    "price": "890",
+    "img": "pic/top7.jpg"
+  },
+  "top8": {
+    "brand": "H.Casual",
+    "name": "Blue Knit ",
+    "price": "590",
+    "img": "pic/top8.jpg"
+  },
+  "top9": {
+    "brand": "Laces",
+    "name": "Pure Lace",
+    "price": "490",
+    "img": "pic/top9.jpg"
+  }
+}
